@@ -1,0 +1,20 @@
+#container-stack{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+#stackoverflow-data{
+    background-color: lightblue;
+    padding-bottom: 5%;
+    padding-top:2%;
+}
+
+#img-so{
+    margin-top:2%;
+}
+#stack-error{
+    background-color: lightblue;
+}
